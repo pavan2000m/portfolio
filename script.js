@@ -151,11 +151,12 @@ if (resumeIframe) {
                 <p style="margin-bottom: 1rem; color: var(--text-secondary);">
                     Unable to display PDF inline. Please download or open in a new tab.
                 </p>
-                <a href="Pavan_Kalyan_Reddy_Mallidi_Resume.pdf" download class="btn btn-primary">
+                <a href="new-resume.pdf" download class="btn btn-primary">
                     Download Resume
                 </a>
             </div>
         `;
     });
 }
+
 
